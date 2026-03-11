@@ -3,16 +3,18 @@
 ### Ａｎ　Ｅｘｐｌｏｒｅｒ
 
 - 🔭 I'm currently working on **Building small C projects & exploring full-stack development with Java + React**
-
+- 
 - 🌱 I'm currently learning **Building small C projects & exploring full-stack development with Java + React**
-
+- 
 - 👯 I'm looking to collaborate on **open source projects**
-
+- 
 - 🤝 I'm looking for help with **learning system design**
-
+- 
 - 💬 Ask me about **Getting started with Cursor AI, learning C/Java as a beginner, or front-end development tips**
-
+- 
 - 📫 How to reach me **oreno123@qq.com**
+- 
+- 🌟 welcome to **https://oreno123.github.io**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
