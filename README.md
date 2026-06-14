@@ -4,7 +4,7 @@
 
 _**在传统与代码之间找纹脉 · builder, learner, pattern-spotter**_
 
-南大大三在读 · 全栈方向 · 关注中国传统文化的代码转译、AI 应用、知识工具
+大一软商在读 · 全栈方向 · 关注中国传统文化的代码转译、AI 应用、知识工具
 
 `oreno123@qq.com` · [个人站](https://oreno123.github.io) · [GitHub](https://github.com/oreno123)
 
@@ -72,7 +72,7 @@ _**在传统与代码之间找纹脉 · builder, learner, pattern-spotter**_
 
 ## ✦ 关于我
 
-- **目前**：南大大三，专业课业 + side project 双线推进
+- **目前**：大一软商在读，专业课业 + side project 双线推进
 - **方向**：全栈 / AI 应用 / 数据可视化 / 文化 IP 数字化
 - **方法**：项目驱动学习，每个 side project 都是真实需求（小红书整理、纹样创作、热点聚合、小说连载），不是为了练手而练手
 - **风格**：偏爱深色 + 暖色调（金红中国风、暖深色玻璃态），讨厌模板感的 AI slop UI
