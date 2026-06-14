@@ -1,26 +1,106 @@
-# Hi 👋, I'm Kzc
+<div align="center">
 
-### Ａｎ　Ｅｘｐｌｏｒｅｒ
+# Kzc
 
-- 🔭 I'm currently working on **Building small C projects & exploring full-stack development with Java + React**
-- 
-- 🌱 I'm currently learning **Building small C projects & exploring full-stack development with Java + React**
-- 
-- 👯 I'm looking to collaborate on **open source projects**
-- 
-- 🤝 I'm looking for help with **learning system design**
-- 
-- 💬 Ask me about **Getting started with Cursor AI, learning C/Java as a beginner, or front-end development tips**
-- 
-- 📫 How to reach me **oreno123@qq.com**
-- 
-- 🌟 welcome to **https://oreno123.github.io**
+_**在传统与代码之间找纹脉 · builder, learner, pattern-spotter**_
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://github.com/oreno123" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="oreno123" height="30" width="40" /></a>
+南大大三在读 · 全栈方向 · 关注中国传统文化的代码转译、AI 应用、知识工具
+
+`oreno123@qq.com` · [个人站](https://oreno123.github.io) · [GitHub](https://github.com/oreno123)
+
+</div>
+
+---
+
+## ✦ Featured Projects
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3 align="center">纹脉 · Pattern Veins</h3>
+      <p align="center"><em>中国传统纹样收藏与创作 Web 应用</em></p>
+      <p align="center">抽卡收集 400+ 纹样（基础/山海经/青花瓷 335）/ 拼图创作 / 3D 浮雕（金线金属 + 青花瓷釉面）/ 手势碎裂展示 / Supabase 账号云端同步</p>
+      <p align="center">
+        <code>React 19</code> <code>Three.js</code> <code>MediaPipe</code> <code>Supabase</code>
+      </p>
+      <p align="center"><a href="https://github.com/oreno123/wenmai">→ 仓库</a></p>
+    </td>
+    <td width="50%" valign="top">
+      <h3 align="center">纹封</h3>
+      <p align="center"><em>古纹封印题材长篇网络小说</em></p>
+      <p align="center">78 章 / 12 万字 / 二阶读纹级主线 · 围绕"簋裂"和苏窈的调查展开，构建"纹封"文化 IP 生态（小说 + 数据库 + 博物馆 + 文创衍生品）</p>
+      <p align="center">
+        <code>世界观构建</code> <code>长篇连载</code> <code>文化 IP</code>
+      </p>
+      <p align="center"><a href="https://github.com/oreno123/ai-novels">→ 仓库</a></p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3 align="center">XHS-RAG · 小红书收藏知识库</h3>
+      <p align="center"><em>把散落的收藏整理成可对话的个人知识库</em></p>
+      <p align="center">语义搜索 / AI 自动归类 / RAG 对话 / 增量同步 / 企业微信 · 飞书推送 · 暖深色玻璃态 UI · 608 篇已同步</p>
+      <p align="center">
+        <code>FastAPI</code> <code>Next.js</code> <code>DashScope</code> <code>SQLAlchemy</code>
+      </p>
+      <p align="center"><a href="https://github.com/oreno123/XHS-RAG">→ 仓库</a></p>
+    </td>
+    <td width="50%" valign="top">
+      <h3 align="center">流觞 · Liú Shāng</h3>
+      <p align="center"><em>抖音 AI 体验赛道 · 短视频情绪匹配</em></p>
+      <p align="center">从短视频抽取情绪曲线 → 匹配古典意象 → 生成"流觞卡" → 水墨纸笺 UI 原型 · 用代码转译"曲水流觞"的古人雅集仪式</p>
+      <p align="center">
+        <code>React</code> <code>Framer Motion</code> <code>情绪分析</code>
+      </p>
+      <p align="center"><a href="https://github.com/oreno123/liu-shang">→ 仓库</a></p>
+    </td>
+  </tr>
+  <tr>
+    <td width="100%" colspan="2" valign="top">
+      <h3 align="center">TrendRadar · 热点新闻聚合</h3>
+      <p align="center"><em>多源热点新闻聚合 · 每日定时推送</em></p>
+      <p align="center">Docker 部署腾讯云 Lighthouse · 每天 13:00 / 22:00 推飞书 · 已去除签到限制 · 适合做信息流监控的小型 side project</p>
+      <p align="center">
+        <code>Python</code> <code>Docker</code> <code>飞书 API</code> <code>定时任务</code>
+      </p>
+      <p align="center"><a href="https://github.com/oreno123/TrendRadar">→ 仓库</a></p>
+    </td>
+  </tr>
+</table>
+
+---
+
+## ✦ 关于我
+
+- **目前**：南大大三，专业课业 + side project 双线推进
+- **方向**：全栈 / AI 应用 / 数据可视化 / 文化 IP 数字化
+- **方法**：项目驱动学习，每个 side project 都是真实需求（小红书整理、纹样创作、热点聚合、小说连载），不是为了练手而练手
+- **风格**：偏爱深色 + 暖色调（金红中国风、暖深色玻璃态），讨厌模板感的 AI slop UI
+
+---
+
+## ✦ Skills
+
+<p>
+  <img src="https://skillicons.dev/icons?i=react,ts,js,python,threejs,tailwind,nodejs,fastapi,sqlite,postgres,docker,git,github,linux" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.mozilla.org/en-US/docs/Web/c" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=c" alt="c" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/cplusplus" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=cpp" alt="cplusplus" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/css3" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=css" alt="css3" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/git" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=git" alt="git" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/javascript" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=js" alt="javascript" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/python" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=py" alt="python" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/react" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=react" alt="react" width="40" height="40"/> </a></p>
+<p>
+  <img src="https://skillicons.dev/icons?i=cpp,java,pytorch,redis,vite,figma" />
+</p>
 
+---
+
+## ✦ Contact
+
+| 渠道 | 地址 |
+|------|------|
+| 📧 邮箱 | `oreno123@qq.com` |
+| 🌐 个人站 | [oreno123.github.io](https://oreno123.github.io) |
+| 💻 GitHub | [@oreno123](https://github.com/oreno123) |
+
+<div align="center">
+
+<sub>README designed with ❤ — 金红配色，跟我的 <a href="https://github.com/oreno123/wenmai">纹脉</a> 同款</sub>
+
+</div>
