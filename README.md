@@ -26,17 +26,6 @@ _**在传统与代码之间找纹脉 · builder, learner, pattern-spotter**_
       <p align="center"><a href="https://github.com/oreno123/wenmai">→ 仓库</a></p>
     </td>
     <td width="50%" valign="top">
-      <h3 align="center">纹封</h3>
-      <p align="center"><em>古纹封印题材长篇网络小说</em></p>
-      <p align="center">78 章 / 12 万字 / 二阶读纹级主线 · 围绕"簋裂"和苏窈的调查展开，构建"纹封"文化 IP 生态（小说 + 数据库 + 博物馆 + 文创衍生品）</p>
-      <p align="center">
-        <code>世界观构建</code> <code>长篇连载</code> <code>文化 IP</code>
-      </p>
-      <p align="center"><a href="https://github.com/oreno123/ai-novels">→ 仓库</a></p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
       <h3 align="center">XHS-RAG · 小红书收藏知识库</h3>
       <p align="center"><em>把散落的收藏整理成可对话的个人知识库</em></p>
       <p align="center">语义搜索 / AI 自动归类 / RAG 对话 / 增量同步 / 企业微信 · 飞书推送 · 暖深色玻璃态 UI · 608 篇已同步</p>
@@ -44,26 +33,6 @@ _**在传统与代码之间找纹脉 · builder, learner, pattern-spotter**_
         <code>FastAPI</code> <code>Next.js</code> <code>DashScope</code> <code>SQLAlchemy</code>
       </p>
       <p align="center"><a href="https://github.com/oreno123/XHS-RAG">→ 仓库</a></p>
-    </td>
-    <td width="50%" valign="top">
-      <h3 align="center">流觞 · Liú Shāng</h3>
-      <p align="center"><em>抖音 AI 体验赛道 · 短视频情绪匹配</em></p>
-      <p align="center">从短视频抽取情绪曲线 → 匹配古典意象 → 生成"流觞卡" → 水墨纸笺 UI 原型 · 用代码转译"曲水流觞"的古人雅集仪式</p>
-      <p align="center">
-        <code>React</code> <code>Framer Motion</code> <code>情绪分析</code>
-      </p>
-      <p align="center"><a href="https://github.com/oreno123/liu-shang">→ 仓库</a></p>
-    </td>
-  </tr>
-  <tr>
-    <td width="100%" colspan="2" valign="top">
-      <h3 align="center">TrendRadar · 热点新闻聚合</h3>
-      <p align="center"><em>多源热点新闻聚合 · 每日定时推送</em></p>
-      <p align="center">Docker 部署腾讯云 Lighthouse · 每天 13:00 / 22:00 推飞书 · 已去除签到限制 · 适合做信息流监控的小型 side project</p>
-      <p align="center">
-        <code>Python</code> <code>Docker</code> <code>飞书 API</code> <code>定时任务</code>
-      </p>
-      <p align="center"><a href="https://github.com/oreno123/TrendRadar">→ 仓库</a></p>
     </td>
   </tr>
 </table>
