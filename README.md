@@ -1,7 +1,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&height=300&section=header&text=Kzc%20%C2%B7%20oreno123&fontSize=44&fontColor=efe5d0&desc=%E5%9C%A8%E4%BC%A0%E7%BB%9F%E4%B8%8E%E4%BB%A3%E7%A0%81%E4%B9%8B%E9%97%B4%E6%89%BE%E7%BA%B9%E8%84%89%20%C2%B7%20builder%2C%20learner%2C%20pattern-spotter&descSize=18&descAlignY=65&color=0:2a1f12,100:a23b2c&animation=fadeIn" alt="header" width="100%">
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=22&pause=1200&color=a23b2c&center=true&vCenter=true&width=500&lines=%E4%B8%94%E8%A1%8C%E4%B8%94%E6%AD%8C%E3%80%82;%E8%B0%A8%E5%BF%B5%E5%90%9B%E5%AE%89%E3%80%82" alt="typing">
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=22&pause=1200&color=a23b2c&center=true&vCenter=true&width=500&lines=%E4%B8%94%E8%A1%8C%E4%B8%94%E6%AD%8C%E3%80%82;%E8%B0%A8%E7%A5%9D%E5%90%9B%E5%AE%89%E3%80%82" alt="typing">
 </p>
 
 <p align="center">
