@@ -1,14 +1,12 @@
-<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&height=180&section=header&text=Kzc%20%C2%B7%20oreno123&fontSize=44&fontColor=efe5d0&desc=%E5%9C%A8%E4%BC%A0%E7%BB%9F%E4%B8%8E%E4%BB%A3%E7%A0%81%E4%B9%8B%E9%97%B4%E6%89%BE%E7%BA%B9%E8%84%89%20%C2%B7%20builder%2C%20learner%2C%20pattern-spotter&descSize=18&descAlignY=75&color=0:2a1f12,100:a23b2c&animation=fadeIn" alt="header" width="100%">
 
-# Kzc
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=22&pause=1200&color=a23b2c&center=true&vCenter=true&width=500&lines=%E4%B8%94%E8%A1%8C%E4%B8%94%E6%AD%8C%E3%80%82;%E5%BF%B5%E5%90%9B%E5%AE%89%E3%80%82" alt="typing">
+</p>
 
-_**在传统与代码之间找纹脉 · builder, learner, pattern-spotter**_
-
-大一软商在读 · 全栈方向 · 关注中国传统文化的代码转译、AI 应用、知识工具
-
-`oreno123@qq.com` · [个人站](https://oreno123.github.io) · [GitHub](https://github.com/oreno123)
-
-</div>
+<p align="center">
+  <code>oreno123@qq.com</code> · <a href="https://growth.ruoziqing.cn">个人站</a> · <a href="https://wenmai.ruoziqing.cn">纹脉</a>
+</p>
 
 ---
 
@@ -41,7 +39,7 @@ _**在传统与代码之间找纹脉 · builder, learner, pattern-spotter**_
 
 ## ✦ 关于我
 
-- **目前**：大一软商在读，专业课业 + side project 双线推进
+- **目前**：大二软商在读，专业课业 + side project 双线推进
 - **方向**：全栈 / AI 应用 / 数据可视化 / 文化 IP 数字化
 - **方法**：项目驱动学习，每个 side project 都是真实需求（小红书整理、纹样创作、热点聚合、小说连载），不是为了练手而练手
 - **风格**：偏爱深色 + 暖色调（金红中国风、暖深色玻璃态），讨厌模板感的 AI slop UI
@@ -58,18 +56,34 @@ _**在传统与代码之间找纹脉 · builder, learner, pattern-spotter**_
   <img src="https://skillicons.dev/icons?i=cpp,java,pytorch,redis,vite,figma" />
 </p>
 
+<p>
+  <img src="https://img.shields.io/badge/Supabase-3FCF8E?style=flat-square&logo=supabase&logoColor=white" />
+  <img src="https://img.shields.io/badge/Claude_Code-D97757?style=flat-square&logo=anthropic&logoColor=white" />
+</p>
+
 ---
 
-## ✦ Contact
+## ✦ 数据
 
-| 渠道 | 地址 |
-|------|------|
-| 📧 邮箱 | `oreno123@qq.com` |
-| 🌐 个人站 | [oreno123.github.io](https://oreno123.github.io) |
-| 💻 GitHub | [@oreno123](https://github.com/oreno123) |
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=oreno123&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=2a1f12&title_color=c89858&text_color=efe5d0&icon_color=a23b2c" alt="stats" width="49%">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=oreno123&layout=compact&langs_count=8&hide_border=true&bg_color=2a1f12&title_color=c89858&text_color=efe5d0" alt="langs" width="42%">
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=oreno123&hide_border=true&background=2a1f12&ring=c89858&fire=a23b2c&currStreakNum=c89858&currStreakLabel=efe5d0&sideNums=efe5d0&sideLabels=efe5d0&dates=a89e85" alt="streak" width="70%">
+</p>
+
+---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=oreno123&style=flat-square&color=a23b2c&label=%E8%AE%BF%E5%AE%A2" alt="visitors">
+</p>
 
 <div align="center">
 
 <sub>README designed with ❤ — 金红配色，跟我的 <a href="https://github.com/oreno123/wenmai">纹脉</a> 同款</sub>
 
 </div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&color=0:a23b2c,100:2a1f12" alt="footer" width="100%">
